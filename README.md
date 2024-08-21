@@ -1,7 +1,7 @@
 Hello, I'm Alex. I am currently a senior enrolled in Computer Science at the University of North Carolina at Greensboro.
 I enjoy creating side projects that allow me to test skills i've learnt through personal research as well as academically.
-I also enjoy discussing with fellow programmers and sharing ideas/knowledge. I find that a different perspective is always insightful.
-I am looking to break into the tech industry, and hope to further my knowledge of software systems and development through the process.
+I also enjoy discussing with other programmers and sharing ideas/knowledge. I find that a different perspective is always insightful.
+I am looking to further my knowledge of software systems and development.
 To reach me my email is:
                         acrubaugh11@gmail.com
 Thanks!
